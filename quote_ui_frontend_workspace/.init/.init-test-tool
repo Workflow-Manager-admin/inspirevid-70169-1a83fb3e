@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/inspirevid-70169-1a83fb3e/quote_ui_frontend_workspace/quote_ui_frontend"
+}
