@@ -11,6 +11,14 @@
 
 Welcome to your Remotion project!
 
+---
+## Custom inspirational quotes UI
+
+- Visit `/` (homepage) to see the dark-themed inspirational quotes app.
+- Click "Generate Random Quote" to see a random quote and author.
+- After showing a quote, reveal "Render Video" to proceed to the video generator page (URL: `/video` or `/video?quote=...&author=...`).
+- Quote and author are passed to the video generator via URL and/or localStorage for use there.
+
 ## Commands
 
 **Install Dependencies**
